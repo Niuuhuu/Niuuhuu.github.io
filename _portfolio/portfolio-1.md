@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Simple-AES（by Python+QT）"
+excerpt: "Simple AES encryption and decryption with a concise front-end interface is implemented in Python+QT, providing a simplified yet professional solution.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

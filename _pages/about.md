@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,4 +18,6 @@ QQ：2484033629
 Email：2484033629@qq.com
 
 [个人博客](https://niuuhuu.github.io/)：https://niuuhuu.github.io/
+
+# 专业技能
 

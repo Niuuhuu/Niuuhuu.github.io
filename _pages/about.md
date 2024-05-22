@@ -17,7 +17,7 @@ QQ：2484033629
 
 Email：2484033629@qq.com
 
-[个人博客](https://niuuhuu.github.io/)：https://niuuhuu.github.io/
+[个人博客](https://niuuhuu.github.io/)：https://niuuhuu.github.io
 
 # 专业技能
 
